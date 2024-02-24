@@ -1,0 +1,2 @@
+# nixbot
+https://nixbot.ai
