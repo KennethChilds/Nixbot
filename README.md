@@ -6,4 +6,4 @@
 - **💻 Discover New Software**
 - **💫 Inspiration and Customization**
 
-* ### [Try It Out!](https://nixbot.ai)
+* ### Try It Out! [nixbot.ai](https://nixbot.ai)
