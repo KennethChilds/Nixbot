@@ -1,16 +1,16 @@
 # Load environment variables
-#import os
-#from dotenv import load_dotenv, find_dotenv
+import os
+from dotenv import load_dotenv, find_dotenv
 
-#load_dotenv(find_dotenv())
-#ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+load_dotenv(find_dotenv())
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 # CLAUDE 3
 import anthropic
 
 client = anthropic.Anthropic(
     # defaults to os.environ.get("ANTHROPIC_API_KEY")
-    api_key="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",
+    api_key=ANTHROPIC_API_KEY,
 )
 
 message = client.messages.create(
