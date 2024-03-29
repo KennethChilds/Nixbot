@@ -2,7 +2,7 @@
 
 ## Get Help With:
 
-- **🧑‍💻 Installing \*nix Operating Systems**
+- **💾 Installing \*nix Operating Systems**
 - **💻 Discover New Software**
 - **💫 Inspiration and Customization**
 
