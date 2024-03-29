@@ -11,6 +11,17 @@
 ```shell
 git clone https://github.com/KennethChilds/nixbot
 ```
+
+then install dependencies
+
+```shell
+pip install anthropic
+```
+
+```shell
+pip install python-dotenv
+```
+
 ## Configuration
 
 Change the ```.env.example``` file to ```.env``` and enter your Anthropic API key.
