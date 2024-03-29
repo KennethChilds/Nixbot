@@ -16,12 +16,10 @@ then install dependencies
 
 ```shell
 pip install anthropic
-```
 
-```shell
 pip install python-dotenv
 ```
 
 ## Configuration
 
-Change the ```.env.example``` file to ```.env``` and enter your Anthropic API key.
+Change the ```.env.example``` file to ```.env``` and enter your [Anthropic API key](https://console.anthropic.com/settings/keys).
