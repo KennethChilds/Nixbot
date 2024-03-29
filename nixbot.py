@@ -17,7 +17,7 @@ try:
 
         with client.messages.stream(
             model="claude-3-haiku-20240307",
-            max_tokens=1000,
+            max_tokens=4096,
             temperature=0.0,
             system="""
                 *nixbot is an AI-powered assistant designed to guide users 
