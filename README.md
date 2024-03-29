@@ -1,9 +1,16 @@
 # Nixbot
 
-### Get Help With:
+## Get Help With:
 
 - **🧑‍💻 Installing \*nix Operating Systems**
 - **💻 Discover New Software**
 - **💫 Inspiration and Customization**
 
-* ### Try It Out! [nixbot.ai](https://nixbot.ai)
+## Installing / Getting started
+
+```shell
+git clone https://github.com/KennethChilds/nixbot
+```
+## Configuration
+
+Change the ```.env.example``` file to ```.env``` and enter your Anthropic API key.
