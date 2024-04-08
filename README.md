@@ -15,9 +15,7 @@ git clone https://github.com/KennethChilds/nixbot
 then install dependencies
 
 ```shell
-pip install anthropic
-
-pip install python-dotenv
+pip install -r requirements.txt
 ```
 
 ## Configuration
