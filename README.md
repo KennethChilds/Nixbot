@@ -21,3 +21,7 @@ pip install -r requirements.txt
 ## Configuration
 
 Change the ```.env.example``` file to ```.env``` and enter your [Anthropic API key](https://console.anthropic.com/settings/keys).
+
+## Also Avaliable as a Custom GPT
+
+[chat.nixbot.ai](chat.nixbot.ai)
